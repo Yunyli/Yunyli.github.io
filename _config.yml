@@ -85,10 +85,10 @@ author:
   bio              : "PhD student, Research Assistant at McCombs School of Business, The University of Texas at Austin"
   location         : "Austin, TX, USA"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CFr9QYMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: ""
+  researchgate     :  # example: 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yunyi-li/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
