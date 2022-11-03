@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yunyi Li"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "Yunyi Li 02-29-2020 PS.jpg"
+  bio              : "PhD student, Research Assistant at McCombs School of Business, The University of Texas at Austin"
+  location         : "Austin, TX, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=CFr9QYMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
