@@ -12,7 +12,7 @@ I am a Ph.D. candidate at the Information, Risk and Operation Management Departm
 
 Updates
 ======
-
+**2019: My summber intern project at UIHC AU Lab is published on [Genome research](https://genome.cshlp.org/content/29/8/1329.short)**
 
 **2018: [UIowa Dare to Discover banner campaign](https://dare.research.uiowa.edu/li-yunyi/) features Yunyi Li**
-Undergraduate reserach applies data mining in crime prediction.
+:Undergraduate reserach applies data mining in crime prediction. The paper is accepted at AI for Social Good Workshop NeurIPS 2018.
