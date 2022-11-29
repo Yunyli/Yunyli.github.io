@@ -12,7 +12,8 @@ I am a Ph.D. candidate at the Information, Risk and Operation Management Departm
 
 Updates
 ======
+**2021: Our work "Gaussian process regression and classification using International Classification of Disease codes as covariates" is on [Arxiv](https://arxiv.org/abs/2108.01813)**
 **2019: My summber intern project at UIHC AU Lab is published on [Genome research](https://genome.cshlp.org/content/29/8/1329.short)**
 
 **2018: [UIowa Dare to Discover banner campaign](https://dare.research.uiowa.edu/li-yunyi/) features Yunyi Li**
-:Undergraduate reserach applies data mining in crime prediction. The paper is accepted at AI for Social Good Workshop NeurIPS 2018.
+:Undergraduate reserach applies data mining in crime prediction. The paper is accepted at [AI for Social Good Workshop NeurIPS 2018](https://arxiv.org/abs/1812.05224).
