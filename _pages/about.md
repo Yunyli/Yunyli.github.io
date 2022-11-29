@@ -14,5 +14,5 @@ Updates
 ======
 
 
-**2018: UIowa Dare to Discover banner campaign features Yunyi Li [Link](https://dare.research.uiowa.edu/li-yunyi/)**
+**2018: [UIowa Dare to Discover banner campaign](https://dare.research.uiowa.edu/li-yunyi/) features Yunyi Li**
 Undergraduate reserach applies data mining in crime prediction.
