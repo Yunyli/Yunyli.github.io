@@ -12,6 +12,8 @@ I am a Ph.D. candidate at the Information, Risk and Operation Management Departm
 
 Updates
 ======
+**11/2022: Our paper "[When More Data Lead Us Astray: Active Data Acquisition in the Presence of Label Bias](https://ojs.aaai.org/index.php/HCOMP/article/view/21994)" was accepted to [HCOMP 2022](https://www.humancomputation.com/index.html)** 
+
 **2021: Our work "Partially interpretable estimators (PIE): black-box-refined interpretable machine learning" is on [Arxiv](https://arxiv.org/abs/2105.02410)**
 
 **2021: Our work "Gaussian process regression and classification using International Classification of Disease codes as covariates" is on [Arxiv](https://arxiv.org/abs/2108.01813)**
