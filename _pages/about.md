@@ -12,7 +12,7 @@ I am a Ph.D. student at the Information, Risk and Operation Management Departmen
 
 Updates
 ======
-**11/2022: Our paper "[When More Data Lead Us Astray: Active Data Acquisition in the Presence of Label Bias](https://ojs.aaai.org/index.php/HCOMP/article/view/21994)" was accepted to [HCOMP 2022](https://www.humancomputation.com/index.html)** 
+**11/2022: Our paper "[When More Data Lead Us Astray: Active Data Acquisition in the Presence of Label Bias](https://ojs.aaai.org/index.php/HCOMP/article/view/21994)" was accepted to [HCOMP 2022](https://www.humancomputation.com/index.html), [(Conference recording)](https://www.youtube.com/watch?v=Nc0n_Ha3axA)** 
 
 **2021: Our work "Partially interpretable estimators (PIE): black-box-refined interpretable machine learning" is on [Arxiv](https://arxiv.org/abs/2105.02410)**
 
