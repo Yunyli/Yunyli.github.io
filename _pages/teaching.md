@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-** Completed a semester of teaching training: Supervised Teaching
+** Completed two semesters of teaching/instructor training: Supervised Teaching
 McCombs School of Business, The University of Texas at Austin
 
 **Spring 2024** Teaching Assistant: BAX 372 & MIS 373 & MIS 285N Ethics of AI, UT Austin
