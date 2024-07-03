@@ -6,7 +6,7 @@ author_profile: true
 ---
 [7] Y Li, M De-Arteaga, M Saar-Tsechansky, "Label Bias: A Pervasive and Invisibalized Problem" The Notices of American Mathematical Society (AMS), Accepted
 
-[6] Y Li, M De-Arteaga, M Saar-Tsechansky, "Mitigating label Bias via Decoupled Confident Learning" ICML 2023 AI&HCI workshop
+[6] Y Li, M De-Arteaga, M Saar-Tsechansky, "Mitigating Label Bias via Decoupled Confident Learning" ICML 2023 AI&HCI workshop
 
 [5] S Srivastava, Z Xu, Y Li, N Street, S Gilbertson-White, "Gaussian Process Regression and Classification using International Classification of Disease Codes as Covariates" Stat, 2023 [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.618)
 
