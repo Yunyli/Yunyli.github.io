@@ -4,8 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+** Completed a semester of teaching training: Supervised Teaching
+McCombs School of Business, The University of Texas at Austin
 
-**Fall 2022 and Fall 2021** Teaching Assistant: MIS304 Intro to Problem Solving and Programming, UT Austin
+**Spring 2024** Teaching Assistant: BAX 372 & MIS 373 & MIS 285N Ethics of AI, UT Austin
+
+**Fall 2020 and Fall 2022** Teaching Assistant: MIS304 Intro to Problem Solving and Programming, UT Austin
 
 **Spring 2020** Teaching Assistant: MSCI6070 Data Science, University of Iowa
 
