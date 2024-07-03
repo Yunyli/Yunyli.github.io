@@ -20,4 +20,4 @@ author_profile: true
 
 Work in progress
 ------
-[1] T Wang, J Yang, Y Li, B Wang, "Partially interpretable estimators (PIE): black-box-refined interpretable machine learning" [Link](https://arxiv.org/abs/2105.02410) Minor Revision at Informs Journal of Computing
+[1] T Wang, J Yang, Y Li, B Wang, "Partially Interpretable Estimators (PIE): Black-box-refined Interpretable Machine Learning" [Link](https://arxiv.org/abs/2105.02410) Minor Revision at Informs Journal of Computing
