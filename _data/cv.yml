@@ -1,19 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Yunyi Li
+    - name: Address
+      value: 2110 Speedway, Austin, TX 78705
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: The University of Texas at Austin
+      year: 2026
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.S. in Informatics
+      institution: The University of Iowa
+      year: 2020
+      description:
+        - Description 1.
+        - Description 2.
+    - title: B.S. in Business Administration
+      institution: The University of Iowa
+      year: 2018
       description:
         - Description 1.
         - Description 2.
@@ -61,23 +65,17 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 1921
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - Something
+        - Something
     - year: 2029
       items:
-        - Max Planck Medal
+        - Something
 
 - title: Academic Interests
   type: nested_list
