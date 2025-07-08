@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate, McCombs School of Business, The University of Texas a
 
 profile:
   align: right
-  image: Yunyi_profile_picture.jpg
+  image: Yunyi_profile_picture.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2110 Speedway</p>
