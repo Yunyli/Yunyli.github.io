@@ -6,12 +6,11 @@ subtitle: Ph.D. Candidate, McCombs School of Business, The University of Texas a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Yunyi_profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2110 Speedway</p>
+    <p>Austin, TX, USA, 78705</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
