@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate, McCombs School of Business, The University of Texas at Austin
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,8 +22,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Ph.D. student at the Information, Risk and Operation Management Department at McCombs School of Business at the University of Texas at Austin. My research explores fairness and interpretability in socio-technical Systems. As part of my work, I characterize how bias may creep into data labels for training a supervised learning system, and how such label bias may lead to unwanted and undetected downstream consequences. Moreover, I explore methods that mitigate label bias and promote bias-aware active data collection. Generally speaking, in my research, I aim to understand the limits and risks of using machine learning (ML) systems and to develop methods to bring fairness, ethics, and accountability to ML systems from both an algorithm design perspective and an ML designers’ behavioral perspective.
