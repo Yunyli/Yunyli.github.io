@@ -9,28 +9,26 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. in Information Systems
       institution: The University of Texas at Austin
       year: 2026
       description:
-        - Description 1.
+        - Advancing Algorithmic Fairness via Improved Data Quality - Understanding and Mitigating Label Bias 
         - Description 2.
-        - title: Description 3.
+        - title: Advisor
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: M.S. in Informatics
+            - Prof. Maytal Saar-Tsechansky
+            - Prof. Maria De-Arteaga
+    - title: M.S. in Informatics-Information Science
       institution: The University of Iowa
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
+      
     - title: B.S. in Business Administration
       institution: The University of Iowa
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Large Data Analysis Certificate
 
 #- title: Experience
 #  type: time_table
@@ -47,17 +45,6 @@
 #            - Sub-description 2.
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Something
-        - Something
-    - year: 2029
-      items:
-        - Something
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -69,6 +56,25 @@
       items:
         - Description 1.
         - Description 2.
+
+- title: Selected Honors and Awards (Full list is the CV)
+  type: time_table
+  contents:
+    - year: 2020-Now
+      items:
+        - McCombs School of Business Dean's Fellowship
+    - year: 2021
+      items:
+        - UT Austin Machine Learning Laboratory Research Grant
+    - year: 2018
+      items:
+        - NeurIPS Travel Award
+    - year: 2018
+      items:
+        - Carol Fethke Honors Scholarship
+    - year: 2017
+      items:
+        - Iowa Center for Research by Undergraduates Research Fellowship
 
 - title: Other Interests
   type: list
