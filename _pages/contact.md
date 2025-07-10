@@ -7,8 +7,17 @@ nav: true
 nav_order: 7
 ---
 
-You can contact me via email: Yunyi.Li@mccombs.utexas.edu
+## 📬 Get in Touch
 
-Please follow me on [LinkedIn](https://www.linkedin.com/in/yunyi-li/)
+Feel free to reach out to me through any of the following:
 
-Mailing address: 2100 Speedway, Austin, TX, USA, 78705
+### 📧 Email  
+**Yunyi.Li@mccombs.utexas.edu**
+
+### 💼 LinkedIn  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/yunyi-li/)
+
+### 📫 Mailing Address  
+**2100 Speedway**  
+Austin, TX, USA  
+**78705**
