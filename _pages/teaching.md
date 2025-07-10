@@ -13,7 +13,7 @@ nav_order: 6
 
 ---
 
-### 🎓 The University of Texas at Austin
+### The University of Texas at Austin
 
 - **Spring 2025**
   - 📌 **Artificial Intelligence & Machine Learning for Executives** — MIS 281N (Teaching Assistant)
@@ -27,7 +27,7 @@ nav_order: 6
 
 ---
 
-### 🏛️ The University of Iowa
+### The University of Iowa
 
 - **Spring 2020**
   - 📌 **Data Science** — MSCI 6070 (Teaching Assistant)
