@@ -402,7 +402,7 @@ ninja.data = [{
           title: 'I am invited to present my latest research at the 21st Big XII...',
           description: "",
           section: "News",},{id: "news-our-latest-work-pie-partially-interpretable-estimators-with-refinement-is-published-in-the-informs-journal-on-computing",
-          title: 'Our latest work, “PIE—Partially Interpretable Estimators with Refinement, is published in the INFORMS...',
+          title: 'Our latest work, “PIE—Partially Interpretable Estimators with Refinement”, is published in the INFORMS...',
           description: "",
           section: "News",},{
         id: 'social-linkedin',
