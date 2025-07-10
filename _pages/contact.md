@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 Feel free to reach out to me through any of the following:
 
