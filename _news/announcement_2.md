@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am invited to present my latest research at the 21st Big XII MIS Research Symposium.
+I am invited to present my latest research at the **21st Big XII MIS Research Symposium**.
