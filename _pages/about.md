@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Ph.D. Candidate, McCombs School of Business, The University of Texas at Austin
 
@@ -9,8 +9,9 @@ profile:
   image: Yunyi_profile_picture.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2110 Speedway</p>
-    <p>Austin, TX, USA, 78705</p>
+    <p><a href="https://scholar.google.com/citations?user=CFr9QYMAAAAJ&hl=en">Google Scholar</a></p>
+
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
