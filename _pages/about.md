@@ -9,7 +9,6 @@ profile:
   image: Yunyi_profile_picture.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://scholar.google.com/citations?user=CFr9QYMAAAAJ&hl=en">Google Scholar</a></p>
 
     
 
