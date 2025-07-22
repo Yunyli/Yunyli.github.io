@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: Yunyi Li
-    - name: Address
-      value: 2110 Speedway, Austin, TX 78705
-
 - title: Education
   type: time_table
   contents:
@@ -43,19 +35,6 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Selected Honors and Awards (Full list is in the CV)
   type: time_table
