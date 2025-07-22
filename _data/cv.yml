@@ -5,8 +5,8 @@
       institution: The University of Texas at Austin
       year: 2026
       description:
-        - Advancing Algorithmic Fairness via Improved Data Quality - Understanding and Mitigating Label Bias 
-        - Description 2.
+        - More data can lead us astray
+        - Bias-aware mislabeling detection
         - title: Advisor
           contents:
             - Prof. Maytal Saar-Tsechansky
