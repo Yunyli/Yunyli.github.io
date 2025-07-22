@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: page2
 permalink: /Teaching/
-title: Teaching Experiences
+title: Teaching
 description: 
 nav: true
 nav_order: 6
 ---
+
+## 📚 Teaching Experience
 
 **Completed two semesters of formal instructor training at the McCombs School of Business**, The University of Texas at Austin.
 
