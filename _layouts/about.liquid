@@ -5,7 +5,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}, Ph.D.
+        {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -47,6 +47,8 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <p><em>“To the attentive eye, each moment of the year has its own beauty, and in the same field, it beholds, every hour, a picture which was never seen before, and which shall never be seen again.”</em> -- <a href="https://www.poetryfoundation.org/poets/ralph-waldo-emerson">Ralph Waldo Emerson</a></p>
+
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
@@ -71,6 +73,5 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
-    <p>“To the attentive eye, each moment of the year has its own beauty, and in the same field, it beholds, every hour, a picture which was never seen before, and which shall never be seen again.”</p>
   </article>
 </div>
